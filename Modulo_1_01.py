@@ -1,29 +1,44 @@
 # -*- coding: utf-8 -*-
 """
-Curso de python
-
-Módulo 1
-
+Curso de Introdução à programação com python
+Parte 1: Conceitos iniciais
 """
 
 
-#%%#######################
-### Tipos de variáveis ###
-##########################
-
-# Inteiro Int (inteiro)
-print(type(10))
-
-# Float (real)
-print(type(10.))
-
-# String (texto)
-print(type('10'))
-print(type("10"))
-
-# Booleanas
-print(type(True))
-print(type(False))
+#%%###################
+## Comandos básicos ##
+######################
+print()
+input()
 
 
+#%%#####################
+## Tipos de variáveis ##
+########################
+
+## int
+## float
+## booleano
+## strings
+
+#%%#########################
+## Operadores matemáticos ##
+############################
+
+#%%############
+## Variáveis ##
+###############
+
+#%%######################
+## Comandos de Decisão ##
+#########################
+## if
+## if else
+## if elif else
+
+#%%########################
+## Comandos de repetição ##
+###########################
+## for
+## while
 
